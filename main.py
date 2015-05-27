@@ -29,7 +29,6 @@ ftp_backup = ftp.FtpBackup()
 # MySQL
 DB_HOST = "616.616.616.616"    # Адрес хоста баз данных
 DATABASES = ["db_all_list", "db_bieber_fans"]
-# DATABASES = ["db1018517_concern"]
 DB_USER = "u1018517_backup"
 DB_PASSWORD = "tHeD@yEnD$"
 MysqlDownload.DESTINATION = TEMP
